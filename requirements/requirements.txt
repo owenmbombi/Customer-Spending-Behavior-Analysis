@@ -1,0 +1,20 @@
+#Data Manipulation
+pandas
+numpy
+
+#Visualization
+matplotlib
+seaborn
+
+#Jupyter Environment
+jupyter notebook
+ipykernel
+
+#Statistical Analysis
+scipy
+
+#Data Export and Reporting
+openpyxl
+
+#SQL Analysis
+MySQL Workbench
