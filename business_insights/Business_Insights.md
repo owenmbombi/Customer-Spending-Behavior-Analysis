@@ -15,14 +15,7 @@ Key Findings
    -Revenue generated in spring = $28 488.00
    -Revenue generated in fall = $3 979.00
 
-6. Age Group Customers 
- ---------  | -------- 
- 18-25      |   1,383 
- 46-55      |     251 
- 26-35      |     213 
- 56+        |      94 
- 36-45      |      64 
-
+6. Age Group Customers:  (18-25 years = 1,383), (46-55 years = 251), (26-35 years = 213), (56+ years = 94), (36-45 years = 64)
 
 RECOMMENDATIONS
 
